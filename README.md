@@ -1,1 +1,1 @@
-# Crop-It-Like-It-s-Hot
+Crop It Like It's Hot
